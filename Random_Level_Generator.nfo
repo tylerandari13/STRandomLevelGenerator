@@ -1,0 +1,8 @@
+(supertux-addoninfo
+  (id "Random_Level_Generator")
+  (version 1)
+  (type "levelset")
+  (title "Random Level Generator")
+  (author "orange juice")
+  (license "CC-BY-SA 4.0 International")
+)

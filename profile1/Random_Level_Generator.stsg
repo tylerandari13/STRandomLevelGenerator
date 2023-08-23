@@ -1,0 +1,34 @@
+(supertux-savegame
+  (version 1)
+  (tux
+    (num_players 1)
+    (bonus "earthflower")
+    (fireflowers 0)
+    (iceflowers 0)
+    (airflowers 0)
+    (earthflowers 24)
+    (coins 6904)
+    (worldmap-sprite "images/worldmap/common/tux.sprite")
+    (last-worldmap "")
+  )
+  (state
+    ("levelsets"
+      ("levels/Random_Level_Generator"
+        ("levels"
+          ("level1.stl~"
+            (solved #t)
+          )
+          ("level2.stl~"
+            (solved #f)
+          )
+          ("level2.stl"
+            (solved #f)
+          )
+          ("level1.stl"
+            (solved #f)
+          )
+        )
+      )
+    )
+  )
+)
